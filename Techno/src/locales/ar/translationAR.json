@@ -1,0 +1,428 @@
+{
+    "greeting":"مرحبا",
+    "new":"وصلنا حديثا",
+    "lenovo":"330-15ASTلاب توب لينوفو ",
+    "sale":"10% خصم",
+    "buy":"اشترى الان",
+    "hp":" 15-da2365ne لاب توب",
+    "dell":" 15-3593 لاب توب ديل",
+    "Browse":"انقر هنا لمزيد من المعلومات",
+    "dell2":" VOSTRO 3501 لاب توب ديل",
+    "lenovo2":" V15-IWL لاب توب لينوفو",
+    "laptops":"لاب توب",
+    "dell3":"ديل",
+    "lenovo3":"لينوفو",
+    "acer":"اشير",
+    "View all":"تصفح جميع الفئات ",
+    "New Arrivals Products":"وصلنا حديثا",
+    "New Collections":"وصلنا حديثا",
+    "Checkout our 2021":"تصفح جميع الفئات",
+    "Our Product":"منتجاتنا",
+    "categories":" اكسسوارات الكمبيوتر و اللاب توب اجزاء و مكونات الكمبيوتر",
+    "discount":"عروض متميزة",
+    "comment1":"about",
+    "About our company":"معلومات عنا",
+    "quality":"املأ بيتك بمنتجات الكترونية عالية الجودة",
+    "about":"عن تكنو",
+    "aboutp1":"تأسست تكنو عام 2020 فى مصر وهدفنا أن نصبح أكبر موقع للتجارة الالكترونية متخصص فى الالكترونيات فنحن نوفر لعملائنا إمكانية الوصول إلى مجموعة متنوعة و ممتازة من المنتجات",
+    "aboutp2":"نقدم أجهزة لاب توب والكمبيوتر واكسسوارات الكمبيوتر وطابعات وصوتيات واكسسوارتها  وسماعات وأجهزة الواقع الأفتراضى وكابلات والوصلات وكاميرات رقمية وسماعات والساعات والتليفزيونات الذكية نقدم منتجات متميزة لجعل حياتك أسهل ",
+    "aboutvalues":":قيم تكنو الأساسية",
+    "aboutv1":"النزاهة",
+    "aboutv2":"التعاون",
+    "aboutv3":"المسؤلية",
+    "aboutv4":"المواطنة",
+    "aboutv5":"الأمانة",
+    "comment2":"contact",
+    "contact us":"اتصل بنا",
+    "Full Name":"الاسم ",
+    "email *":" البريد الالكترونى",
+    "phone*":"رقم الهاتف المحمول",
+    "Message*":"رسالة",
+    "submit":"ارسال",
+    "question0":"التواصل هو  صميم التجارة الإلكترونية والمجتمع",
+    "question":" سيكون من الرائع أن تسمع منك! إذا كانت لديك أية أسئلة، فلا تتردد في إرسال رسالة لنا,نحن نتطلع لسماعك رجاء لا تتردد في إرسال رسالة لنا سيكون من الرائع أن تسمع منك! إذا كانت لديك أية أسئلة، فلا تتردد في إرسال رسالة لنا,نحن نتطلع لسماعك رجاء لا تتردد في إرسال رسالة لنا",
+    "question2":"سيكون من الرائع أن تسمع منك! إذا كانت لديك أية أسئلة، فلا تتردد في إرسال رسالة لنا,نحن نتطلع لسماعك رجاء لا تتردد في إرسال رسالة لنا",
+    "Egypt":"مصر",
+    "add":"العنوان",
+    "ADDRESS":"  شارع التحرير الدقى الجيزة",
+    "ADDRESS2":"  مدينة نصر القاهرة",
+    "comment3":"Shopping Cart",
+    "Shopping Cart":"عربة التسوق",
+    "Missed something ?":"عربة التسوق فارغة",
+    "Continue shopping":"تكملة الشراء؟",
+    "missed":"عربة التسوق فارغة",
+    "item":"أضف سلع لعربة التسوق واستعرضهم قبل عملية الشراء",
+    "DISCOUNT CODES":"كود الخصم",
+    "Enter your coupon code if you have one.":"أدخل لاضافة كوبون",
+    "Apply Coupon":"أدخل لاضافة كوبون",
+    "proceed to Checkout":"تابع عملية الشراء",
+    "Subtotal":"المجموع",
+    "Discount":"الخصم",
+    "Grand Total":"المجموع الكلى",
+    "$ ":"جنية ",
+    "Newsletter":"اشترك في نشرتنا الإخبارية واحصل على خصم ٤٠٪ من جميع المنتجات ",
+    "Subscribe":"أشتراك",
+    "Easy return":"سهولة الاسترجاع",
+    "day":"مدة الاسترجاع 30 يوم ",
+    "shipping":"الشحن",
+    "order":"نقبل الشحن لجميع محافظات مصر  ",
+    "Secure payment":"دفع امن",
+    "Encryption":" نخضع لاعلى معايير الجودة",
+    "Techno":"تكنو",
+    "Company":"الشركة",
+    "Contact":"اتصل بنا",
+    "Category":"الفئات",
+    "CategoryAr":"الفئات بالعربية",
+    "Computer pc":"الكمبيوتر",
+    "Accessories":"اكسسوارات الكمبيوتر",
+    "Smart screen":"شاشات ذكية",
+    "Get Our Store App":"تحميل تطبيق الموبايل",
+    "All rights reserved.":"جميع الحقوق محفوظة",
+    "Made in Egypt":"صنع فى مصر",
+    "comment4":"checkout",
+    "Checkout":"الدفع",
+    "Billing Address":"عـنــوان الفــاتــورة",
+    "Shipping Method":"طــريــقــــة الـشـحــــن",
+    "Payment Method":"طـــريــقـــة الــــدفــــع",
+    "Orders Review":" مـراجــعـــــة الطــلــب",
+    "Billing Details":"تـفـاصـيـل الفـاتـورة",
+    "FirstName:":"الاسم الاول",
+    "LastName:":"اسم العائلة",
+    "Enter First Name":"ادخل اسمك الاول",
+    "Enter Last Name":"ادخل اسمك الاخير",
+    "Enter phone Number":"ادخل رقم هاتفك",
+    "Fax:":":فاكس",
+    "Enter Fax":"أدخل الفاكس",
+    "country":"البلد",
+    "cairo":"القاهرة",
+    "giza":"الجيزة",
+    "Regions":"المنطقة",
+    "Enter Address":"ادخل عنوانك",
+    "City:":"المدينة:",
+    "Enter City":"ادخل المدينة",
+    " Post Code:": "الرقم البريدى",
+    "Enter Postal Code":"ادخل الرقم البريدى",
+    "Back":"الرجوع",
+    "Submit":"ادخال",
+    "Free":"مجانى",
+    "ch":"نقدم أجهزة لاب توب والكمبيوتر واكسسوارات الكمبيوتر وطابعات وصوتيات واكسسوارتها  وسماعات وأجهزة الواقع الأفتراضى وكابلات والوصلات وكاميرات رقمية وسماعات والساعات والتليفزيونات الذكية نقدم منتجات متميزة لجعل حياتك أسهل ",
+    "Standard":"المقاييس",
+    "Speed":"السرعة",
+    "Pay Pal":"باى بال",
+    "Visa Card":"فيزا كارت",
+    "vodafone cash":"فودافون كاش",
+    "Image":"الصورة",
+    "Product Name":"اسم المنتج",
+    "Quantity":"الكمية",
+    "Unit Price":"السعر",
+    "Total":"المجموع الكلى",
+    "Sub Total" :" مجموع مبدئى",
+    "Shipping Charge":" رسوم الشحن",
+    "Payment Charge":"رسوم الدفع",
+    "Promotion Discound":"قيمةالخصم",
+    "Place Order":"نفذ الطلب",
+    "Login":"تسجيل الدخول",
+    "enteremail":" ادخل البريد الالكترونى",
+    "Enter your password":"ادخل الرقم السرى",
+    "Remember me":"تذكرنى",
+    "Forgot your password ?":"هل نسيت كلمة السر؟",
+    "Sign Up":"حساب جديد",
+    "Sign out":"تسجيل خروج",
+    "please":"من فضلك أملا بياناتك لتسجيل حساب جديد",
+    "Enter Full Name":"ادخل الاسم الكامل",
+    "Confirm Password":"التأكيد على كلمة السر",
+    "accept the":"أوافق على",
+    "Terms of Use":"الشروط",
+    "Privacy Policy":"وسياسية الخصوصية",
+    "Already have an account?":"هل بالفعل تمتلك حساب؟",
+    "Techno2":"تكنو",
+    "Home":"الرئيسية",
+    "Shop":"تسوق",
+    "About":"حول الموقع",
+    "Contact2":"اتصل بنا",
+    "Profile":"الحساب",
+    "Admin":"الادمن",
+    "Dashboard":"لوحة البيانات",
+    "Products":"المنتجات",
+    "Orders":"الطلبات",
+    "Users":"المستخدمين",
+    "Seller":"البائعين",
+    "Producsts List":"قائمة الطلبات",
+    "Create Product":"انشاء منتج",
+    "#No":"الرقم#",
+    "ID":"الرقم التعريفى",
+    "NAME":"الاسم",
+    "PRICE":"السعر",
+    "CATEGORY":"الفئة",
+    "Brand":"الماركة",
+    "BrandAr":"الماركة بالعربيه",
+    "ACTIONS":"حالة المنتج",
+    "Edit":"تعديل",
+    "Delete":"حذف",
+    "Orders List":"قائمة الطلبات",
+    "USER":"المستخدم",
+    "DATE":"التاريخ",
+    "TOTAL":"المجموع",
+    "PAID":"المدفوع",
+    "DELIVERED":"تاريخ التوصيل",
+    "Details":"تفاصيل الطلب",
+    "We've recieved your order":"لقد تم تنفيذ طلبك",
+    "Order num#":"رقم الطلب",
+    "Delivery Details":"تفاصيل الطلب",
+    "Delivery for":"التوصيل الى",
+    "Address":"العنوان",
+    "Payment Information":"معلومات الدفع",
+    "Payment Details":"تفاصيل الدفع",
+    "- Please ":" من فضلك",
+    " read":" اقرأ المزيد ",
+    "to see how Taxes are calculated":"لمعرفه كيفيه حساب الضرائب",
+    "to see when items will arrive":"لمعرفة متى هتصل طلباتك",
+
+    "Not Paid":"لم يتم الدفع",
+    "Shipping Details":"تفاصيل الشحن",
+    "Delivered at":"تم التوصيل فى",
+    "Not Delivered":"لم يتم التوصيل",
+    "Pill Details":"تفاصيل الفاتورة",
+    "Shipping Cost":"مصاريف الشحن",
+    "Payment Cost":"مصاريف الدفع",
+    "Order Summary":"ملخص الطلب",
+    "Order Total":"اجمالى الطلب",
+    "Total Price":"السعر الكلى",
+    "My Profile":"حسابى",
+    "Email":"الايميل",
+    "Password":"الرقم السرى",
+    "Seller Name":"اسم البائع",
+    "Enter Seller Name":"ادخل اسم البائع",
+    "Seller Logo":"شعار البائع",
+    "Enter Seller Logo":"ادخل شعار البائع",
+    "Seller Description":"وصف البائع",
+    "Enter Seller Description":"ادخل وصف البائع",
+    "Update":"تحديث",
+    "Product Details":"تفاصيل المنتج",
+    "Edit Product":"المنتج المعدل",
+    "Name":"الاسم",
+    "Arabic Name":"الاسم بالعربى",
+    "Enter name":"ادخل الاسم",
+    "Price":"السعر",
+    "Enter price":"ادخل السعر",
+    "Enter image":"ادخل الصورة",
+    "Enter category":"ادخل الفئة",
+    "Enter categoryAr":"ادخل الفئة بالعربيه",
+    "Enter brand":"ادخل الماركة",
+    "Enter brandAr":"ادخل الماركة بالعربيه",
+    "Count In Stock":"العدد فى المخزن",
+    "Enter countInStock":"ادخل العدد فى المخزن",
+    "Description":"الوصف",
+    "DescriptionAr":"الوصف بالعربيه",
+    "Enter description":"ادخل الوصف" ,
+    "Enter descriptionAr":"ادخل الوصف بالعربيه" ,
+    "Enter discount":"ادخل الخصم",
+    "Deliver Order":"أطلب",
+    "user Details":"تفاصيل المستخدم",
+    "Is Seller":"بائع؟",
+    "Is Admin":"أدمن؟",
+    "Continue with Google":"المتابعة بجوجل",
+    "Users List" :"قائمة المستخدمين",
+    "ADD TO CARD":"أضف الى العربة",
+    "Categories":"الفئات",
+    "Computer Accessories":"اكسسوارات الموبايل",
+    "Smart Screen":"الشاشات الذكية",
+    "Electronic":"الالكترونيات",
+    "laptop":"لاب توب",
+    "Camera":"كاميرا",
+    "Mobile":"موبايل",
+    "Tags":"التاجات",
+    "SKU":"وحدة حفظ المخزون",
+    "Store availability":"المتاح فى المخزن",
+    "Delivery and return":"التوصيل واعادد الشحن",
+    "Ask a question":"اسالنا",
+    "Add to wishlist":"أضف لقائمة الأمنيات",
+    "Share":"شارك",
+    "Additional Information":"معلومات اضافية",
+    "Reviews":"التقيمات",
+    "Ram":"سعة الذاكرة",
+    "8G":" 8 جيجابايت",
+    "Screen Resolution":"دقة الشاشة",
+    "Storage":"الذاكرة",
+    "Battery":"لبطارية",
+    "Color":"اللون",
+    "Full HD":"دقة عالية الجودة",
+    "500G":"500 جيجا بايت",
+    "10 Hours":"10 ساعات",
+    "Black, seliver, White":"اسود فضى ابيض",
+    "Verified Buyer":"مشترى معتمد",
+    "Write a customer review":"اكتب تقييم المشترى",
+    "Rating":"التقييم",
+    "Poor":"ضعيف",
+    "Fair":"مقبول",
+    "Good":"جيد",
+    "Very good":"جيد جدا",
+    "Excelent":"ممتاز",
+    "Select...":"...اختار",
+    "Comment":"تعليق",
+    "Related products":" منتجات ذات صلة",
+    "Sumsung":"سامسونج",
+    "Huawei":"هواوى",
+    "Toshiba":"توشيبا",
+    "Banasonic":"بانسونيك"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+}

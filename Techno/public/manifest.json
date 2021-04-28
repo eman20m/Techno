@@ -1,0 +1,22 @@
+{
+  "name": "React-Tel-Picker",
+  "short_name": "Techno",
+  "theme_color": "#000000",
+  "background_color": "#000000",
+  "display": "standalone",
+  "scope": "/",
+  "start_url": "/",
+  "icons": [
+  
+    {
+      "src": "assets/american.png",
+      "type": "image/png",
+      "sizes": "226x222"
+    },
+    {
+      "src": "assets/egypt.png",
+      "type": "image/png",
+      "sizes": "375x371"
+    }
+  ]
+}

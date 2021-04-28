@@ -1,0 +1,61 @@
+.logo {
+  width: 130px;
+  height: 50px;
+}
+
+.First_Section {
+  background-image: url(../../assets/background.png);
+}
+
+.awesome {
+  font-size: 1.5rem;
+  color: royalblue;
+}
+
+.mybtn {
+  border-radius: 50px;
+  width: 130px;
+}
+
+.footer-padding {
+  padding-top: 7%;
+  padding-bottom: 3%;
+}
+
+.inputwidth {
+  width: 30%;
+  height: 2.9rem;
+}
+
+.e {
+  width: 350px;
+  height: 45px;
+  border-radius: 5px;
+  border: 1px solid gainsboro;
+}
+
+.footerText {
+  color: #8da2b3;
+}
+
+.leftPadding {
+  padding: 0 6%;
+}
+
+.lastSection {
+  margin: 0 7%;
+}
+
+@media only screen and (max-width: 780px) {
+  .footer-padding {
+    padding-top: 5%;
+    padding-bottom: 5%;
+  }
+}
+
+@media only screen and (max-width: 500px) {
+  .footer-padding {
+    padding-top: 5%;
+    padding-bottom: 5%;
+  }
+}

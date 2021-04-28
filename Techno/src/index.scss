@@ -1,0 +1,98 @@
+@import './css/style.scss';
+html{
+  box-sizing: border-box;
+}
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue', sans-serif;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New', monospace;
+}
+
+.success {
+  color: #20a020;
+}
+
+.danger {
+  color: #a02020;
+}
+.alert {
+  padding: 1rem;
+  border: 0.1rem solid transparent;
+  border-radius: 0.5rem;
+}
+.alert-info {
+  color: #2020a0;
+  background-color: #e0e0ff;
+}
+.alert-danger {
+  color: #a02020;
+  background-color: #ffe0e0;
+}
+
+.loading {
+  display: block !important;
+}
+
+.pagination {
+  display: flex;
+  padding-left: 0;
+  list-style: none;
+  border-radius: .375rem;
+}
+
+.page-link {
+  cursor: pointer;
+  line-height: 1.25;
+  position: relative;
+  display: block;
+  margin-left: -1px;
+  padding: .5rem .75rem;
+  color: #8898aa;
+  border: 1px solid #dee2e6;
+  background-color: #fff;
+}
+
+.page-item.active .page-link {
+  box-shadow: 0 7px 14px rgba(50, 50, 93, .1), 0 3px 6px rgba(0, 0, 0, .08);
+}
+
+.page-item .page-link,
+.page-item span {
+  font-size: .875rem;
+  display: flex;
+  width: 36px;
+  height: 36px;
+  margin: 0 3px;
+  padding: 0;
+  border-radius: 50% !important;
+  align-items: center;
+  justify-content: center;
+}
+
+.search button {
+  border-radius: 0 0.5rem 0.5rem 0;
+  border-right: none;
+}
+.search input {
+  width: 75%;
+  border-radius: 0.5rem 0 0 0.5rem;
+  border-right: none;
+  margin-left: 0.5rem;
+}
+
+.col-1{
+  flex:1 1 25rem;
+}
+.col-3{
+  flex:32 1 75rem;
+}
+.row.start{
+  justify-content: flex-start;
+}
+.p-1{
+  padding: 1rem;
+}

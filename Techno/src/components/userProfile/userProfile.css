@@ -1,0 +1,75 @@
+.bodyLogin {
+  margin-top: 200px;
+  margin-bottom: 50px;
+  font-family: Metropolis, sans-serif;
+  color: #556575;
+  font-size: 17px;
+  line-height: 1.5;
+}
+
+.bodyLogin .row {
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+}
+
+.bodyLogin .row .profileImage {
+  position: absolute;
+  top: 65px;
+  left: 660px;
+  -ms-flex-line-pack: center;
+      align-content: center;
+  color: #2B65EC;
+  font-size: 150px;
+  border-radius: 100%;
+}
+
+.bodyLogin .row .login {
+  -webkit-box-pack: start;
+      -ms-flex-pack: start;
+          justify-content: start;
+  border: solid 1px #556575;
+  border-radius: 5px;
+  -webkit-box-shadow: 20px -20px #2B65EC;
+          box-shadow: 20px -20px #2B65EC;
+  width: 650px;
+  height: 600px;
+  padding: 60px;
+  padding-top: 15px;
+}
+
+.bodyLogin .row .login h1 {
+  text-align: center;
+  color: black;
+}
+
+.bodyLogin .row .login .form-control, .bodyLogin .row .login .btn {
+  margin-left: 0;
+  width: 450px;
+  height: 60px;
+}
+
+.bodyLogin .row .login .form-check {
+  width: auto;
+}
+
+.bodyLogin .row .login p {
+  text-align: center;
+  margin-top: 20px;
+}
+
+.bodyLogin .row .login p a {
+  color: #556575;
+  cursor: pointer;
+}
+
+.bodyLogin .row .login p a:hover {
+  color: #2B65EC;
+  text-decoration: none;
+  cursor: pointer;
+}
+
+.bodyLogin .row .login .btn {
+  background-color: #2B65EC;
+}
+/*# sourceMappingURL=userProfile.css.map */

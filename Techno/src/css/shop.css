@@ -1,0 +1,271 @@
+
+.action-btn
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width:100%;
+    background-color: dodgerblue;
+    color : #ffffff;
+    font-size: 1.6rem;
+    border-radius: 5px;
+    margin: 0 .5rem;
+}
+.action-btn:hover{
+    text-decoration: none;
+    color: #ffffff;
+    background-color: #2B65EC;
+}
+.navbar-brand {
+    font-size: 40px;
+}
+
+.nav-link {
+    font-size: 15px;
+}
+
+.icon {
+    font-size: 18px;
+}
+
+.icon:hover {
+    transition: color 0.8s;
+    color: #2B65EC !important;
+    text-decoration: none;
+}
+
+.active {
+    color: #2B65EC !important;
+    border-bottom: 1px solid #2B65EC;
+}
+
+.search {
+    position: relative;
+}
+
+.search-overlay {
+    position: absolute;
+    top: 0;
+    right: 0;
+    width: 250px;
+    visibility: hidden;
+}
+
+.search-input {
+    position: relative;
+}
+
+.search-input input {
+    width: 100%;
+    height: 100%;
+}
+
+.search-input .close {
+    position: absolute;
+    right: 10px;
+    top: 15%;
+    cursor: pointer;
+}
+
+.active-class {
+    visibility: visible;
+}
+
+.d {
+    color: #2B65EC;
+}
+
+.med {
+    font-size: 17px;
+    color: #2B65EC;
+}
+
+.footer {
+    background-color: #f7f7f7;
+}
+
+.cat {
+    color: black;
+    font-size: 15px;
+    text-decoration: none;
+}
+
+.cat:hover {
+    transition: color 0.5s;
+    color: #2B65EC;
+    text-decoration: none;
+}
+
+.content {
+    background-color: #f7f7f7;
+}
+
+.se {
+    position: relative;
+    border-radius: 5px;
+    border: 1px solid gainsboro;
+    width: 100%;
+    height: 45px;
+}
+
+.top-righ {
+    position: absolute;
+    top: 10px;
+    right: 15px;
+}
+
+.gh {
+    position: absolute;
+    margin-top: 7px;
+    margin-right: 10px;
+}
+
+.prodcat {
+    color: #2B65EC;
+}
+
+.prodcat:hover {
+    text-decoration: none;
+    color: #2B65EC;
+}
+
+.PB {
+    font-size: 15px;
+    color: #2B65EC;
+}
+
+.checked {
+    color: orange !important;
+}
+
+.fa-star {
+    font-size: 15px;
+    color: gainsboro;
+}
+
+.pagination a {
+    color: black;
+    float: left;
+    padding: 8px 16px;
+    text-decoration: none;
+    transition: background-color .3s;
+}
+
+.pagination a.active {
+    background-color: dodgerblue;
+    color: white !important;
+}
+
+.pagination a:hover:not(.active) {
+    background-color: #ddd;
+    border-radius: 50px;
+}
+
+.pagination .active {
+    border-radius: 50px;
+}
+
+.spa {
+    text-decoration: line-through;
+}
+
+.co {
+    position: relative;
+}
+
+.bottom-left {
+    position: absolute;
+    bottom: 80px;
+    left: 55px;
+    height: 50px;
+    width: 150px;
+}
+
+.co {
+    position: relative;
+}
+
+.co:before {
+    content: "";
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    top: 0;
+    left: 0;
+    right: 0;
+}
+
+.co img {
+    display: block;
+}
+
+.co button {
+    position: absolute;
+    top: 60%;
+    left: 50%;
+    transform: translate(-50%, 10%);
+    -ms-transform: translate(-10%, -10%);
+    opacity: 0;
+}
+
+.co:hover button {
+    opacity: 1;
+}
+
+.modal {
+    background-color: rgba(0, 0, 0, 0.001);
+}
+
+#close {
+    background-color: #fff;
+    border: none;
+    border-radius: 100%;
+    cursor: pointer;
+}
+
+.modal-body {
+    position: relative;
+}
+
+.top-right {
+    position: absolute;
+    top: -10px;
+    right: -16px;
+}
+
+.bor {
+    border: 1px solid #000;
+    background-color: #000;
+    z-index: 100;
+    border-radius: 10px;
+}
+
+.img-carousel {
+    height: 300px;
+    width: 100%;
+    position: relative;
+    overflow: hidden;
+}
+
+.img-carousel img {
+    width: 100%;
+    height: 100%;
+}
+
+.pay-money {
+    font-size: 30px;
+}
+
+.input-group {
+    width: 150px;
+}
+
+.add-to-cart-btn {
+    border-radius: 50px;
+}
+
+.img {
+    width: 100%;
+    height: 260px;
+}
+

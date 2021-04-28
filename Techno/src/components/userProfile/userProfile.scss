@@ -1,0 +1,70 @@
+@mixin body {
+
+    font-family: Metropolis, sans-serif;
+    color: #556575;
+    font-size: 17px;
+    line-height: 1.5;
+}
+
+@mixin aStyle {
+    a{
+        color: #556575;
+        cursor: pointer;
+
+        &:hover{
+            color: #2B65EC;
+            text-decoration: none;
+            cursor: pointer;
+        }
+    }
+}
+.bodyLogin{
+    margin-top: 200px;
+    margin-bottom: 50px;
+    @include body();
+    .row{
+        justify-content: center;
+
+        .profileImage{
+            position: absolute; 
+            top: 65px;
+            left: 660px;
+            align-content: center;
+            color: #2B65EC;
+            font-size: 150px;
+            border-radius: 100%;
+        }
+        .login{
+            justify-content: start;
+            border: solid 1px #556575;
+            border-radius: 5px;
+            box-shadow: 20px -20px #2B65EC ;
+            width: 650px;
+            height: 600px;
+            padding: 60px;
+            padding-top: 15px;
+            h1{
+                text-align: center;
+                color: black;
+            }
+            .form-control,.btn{
+                margin-left: 0;
+                width: 450px;
+                height: 60px;
+            }
+
+            .form-check{
+                width: auto;
+            }
+            p{
+                text-align: center;
+                margin-top: 20px;
+                @include aStyle();
+            }
+            .btn{
+                background-color: #2B65EC;
+            }
+        }
+    }
+
+}
